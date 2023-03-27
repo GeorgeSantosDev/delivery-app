@@ -17,11 +17,46 @@
 <p> Rafael Ribeiro: https://github.com/rafaelribeiro96; </p>
 <p> Davi Almeida: https://github.com/davifalmeida; </p>
 <p> Cesar Nogueira: https://github.com/cesardinogueira; </p>
-<p> Felipe Bresciani: https://github.com/FelipeBresciani;</p>
 <p> Jõao Espanha: https://github.com/joaoespanha;</p>
 <p> Trybe:  https://github.com/tryber; </p>
 
 </br>
 </br>
 
+<h2> Built With </h2>
 
+<div>
+<h3>FrontEnd </h3>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" rel="nofollow"> - HTML </a> </br></br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow"> - CSS </a> </br></br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> - JavaScript </a> </br></br>
+  <a href="https://react.dev/learn" rel="nofollow"> - React </a> </br></br>
+  <a href="https://axios-http.com/ptbr/docs/intro" rel="nofollow"> - Axios </a>  </br></br>
+  <a href="https://jestjs.io/pt-BR/" rel="nofollow"> - Jest </a> </br></br>
+
+</br>
+<h3>BackEnd</h3>
+ <a href="https://nodejs.org/en/" rel="nofollow"> - NodeJS </a> </br></br>
+ <a href="https://expressjs.com/pt-br/" rel="nofollow"> - Express </a> </br></br>
+ <a href="https://www.mysql.com/" rel="nofollow"> - MySQL </a> </br></br>
+ <a href="https://sequelize.org/docs/v6/core-concepts/validations-and-constraints/" rel="nofollow"> - Sequelize </a> </br></br>
+  <a href="https://jwt.io/" rel="nofollow"> - JWT </a> </br></br>
+ <a href="https://mochajs.org/" rel="nofollow"> - Mocha </a> </br></br>
+ <a href="https://www.chaijs.com/" rel="nofollow"> - Chai </a> </br></br>
+ <a href="https://sinonjs.org/" rel="nofollow"> - Sinon </a> </br></br>
+</div>
+
+<br />
+<br />
+<br /> 
+
+<p> Any questions or suggestions? Contact me </p>
+
+<a href="https://www.linkedin.com/in/george-santos-dev" rel="nofollow">
+  <img
+    height="50px"
+    width="50px"
+    src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg"
+    alt="LinkedIn"
+  />   
+</a>
