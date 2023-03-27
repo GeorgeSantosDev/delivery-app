@@ -1,13 +1,27 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+<h1>Delivery App</h1>
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<p>
+  Delivery App is a app for a beverage distributor. This is a full stack project that was developed in group. In the construction of the 
+  front end, HTML, CSS, JavaScript, React, Context API, Axios and Jest were used. The backend was developed using Node.Js, Express, JWT, MySQL,
+  Sequelize, Mocha, Chai and  Sinon. We use SCRUM practices to make our development agile and we are guided by a kanban board.
+</p>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<p>
+  Rafael and I were responsible for developing the front-end application. I worked on the development of all pages related to customer and seller
+  interaction, as well as the login and registration pages. I also developed all the tests related to the frontend
+</p>
+    
+<br />
+<strong>Acknowledgement: </strong>
+<br /><br />
+<p> Rafael Ribeiro: https://github.com/rafaelribeiro96; </p>
+<p> Davi Almeida: https://github.com/davifalmeida; </p>
+<p> Cesar Nogueira: https://github.com/cesardinogueira; </p>
+<p> Felipe Bresciani: https://github.com/FelipeBresciani;</p>
+<p> Jõao Espanha: https://github.com/joaoespanha;</p>
+<p> Trybe:  https://github.com/tryber; </p>
+
+</br>
+</br>
+
+
