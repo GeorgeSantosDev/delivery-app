@@ -58,6 +58,9 @@
     "collectCoverageFrom": [
       "src/**/*.{js,jsx}"
     ],
+    "moduleNameMapper": {
+      "axios": "axios/dist/node/axios.cjs"
+    },
     "coveragePathIgnorePatterns": [
       "index.js",
       "serviceWorker.js",
