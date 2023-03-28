@@ -91,8 +91,17 @@
      <code>npm start</code>
     </p>
     </br>
-
 </div>
+    <h3> Expected return </h3>
+    <img  src="startimage.png" alt="npm start return" />
+    
+<br />
+<br />
+  <h3> Login data </h3>
+  <p> Customer: 'zebirita@email.com' '$#zebirita#$' </p> </br>
+  <p> Seller: 'fulana@deliveryapp.com' 'fulana@123' </p> </br>
+  <p> Admin: 'adm@deliveryapp.com' '--adm2@21!!--'</p> </br>
+
 
 <br />
 <br />
