@@ -47,6 +47,54 @@
 </div>
 
 <br />
+
+<h2> Entity relationship diagram </h2>
+
+<img src="DiagramaEntidade.png" alt="diagram" />
+
+<br />
+<br /> 
+
+<h2>
+  How try the application?
+</h2>
+
+<div>
+    <p> 
+      1 - Clone the project </br>
+      <code>git clone git@github.com:GeorgeSantosDev/delivery-app.git</code>
+    </p>
+    </br>
+    <p> 
+     2 - Enter the project folder </br>
+     <code>cd delivery-app</code>
+    </p>
+    </br>
+    <p> 
+     3 - Install all dependencies </br>
+      <code>npm install</code>
+    </p>
+    </br>
+    <p> 
+     4 - Enter the frontend and backend folders and install all dependencies </br>
+     <code>cd front-end</code>
+     <code>cd back-end</code>
+     <code>npm install</code>
+    </p>
+    </br>
+    <p> 
+     5 - Rename env.example file in backend folder to .env and add your connection data </br>
+    </p>
+    </br>
+    <p> 
+     6 - In the root of the project run the command </br>
+     <code>npm start</code>
+    </p>
+    </br>
+
+</div>
+
+<br />
 <br />
 <br /> 
 
